@@ -6,6 +6,7 @@ import MainContent from './MainContent';
 
 // My tests 3
 // line 2
+// Another comment
 
 describe('MainContent', () => {
   it('should render a button', () => {
